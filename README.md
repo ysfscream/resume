@@ -31,15 +31,15 @@
 
 ## 开源小项目
 
-### Vue-clear（https://github.com/ysfscream/vue-clear）
+### Vue-clear https://github.com/ysfscream/vue-clear 
 
 Vue.js + JSON-server 模拟的 todolist 应用
 
-### Autogit （https://github.com/ysfscream/Autogit）
+### Autogit  https://github.com/ysfscream/Autogit 
 
 shell 自动 完成 git push 或 rebase 的工具（省去命令行输入，只键入关键信息）
 
-### about-blog (https://github.com/ysfscream/about-blog/tree/master/about-knowledge)
+### about-blog  https://github.com/ysfscream/about-blog 
 
 个人总结或摘取的各类知识点的笔记博客
 
