@@ -72,9 +72,9 @@ shell 自动 完成 git push 或 rebase 的工具（省去命令行输入，只�
 
 运维：docker 等
 
-其余：分布式消息系统 kafka，系统监控 Prometheus
+其余：kafka，Prometheus, EMQX
 
-我在参与的多个项目中，主要负责模块化开发重用前端组件库和调用后台数据接口渲染界面
+我在参与的多个项目中，主要负责模块化开发重用前端组件库, 后台数据接口渲染界面，业务架构搭建，可视化数据开发，前端单页应用微服务化，日常 Code Review
 
 - #### emqx-IoT-platform（EMQ大型物联网管理平台）
 
@@ -92,16 +92,17 @@ shell 自动 完成 git push 或 rebase 的工具（省去命令行输入，只�
 
 以下均为我熟悉使用的过的技能
 
-- Web：掌握`HTML/HTML5` 、 `CSS/CSS3`、`javascript （ES6+）`、`Ajax/fetch`、`websocket`
-- 前端框架：前端框架熟悉`Vue.js`、了解`React.js`、 技术栈（`vuex,  vue-router, axios, vue-cli`) 等
-- UI界面框架：`Bootstrap / element-UI / Bumla`
-- 前端工具：了解自动化构建工具`webpack`、 包管理工具`npm`和`yarn` 
-- 数据库相关：`MySQL` \ `MongoDB`
-- 工具：熟悉`git`、了解 `docker`
-- 后台：熟悉`NodeJS` (Express 和 koa)
+- Web：掌握`HTML/HTML5` 、 `CSS/CSS3`、`javascript （ES6+, TypeScript）`、`Ajax/fetch`、`WebSocket` 等
+- 前端框架：前端框架熟悉`Vue.js`、了解`React.js`、`Elm` 等
+- UI界面框架：`Bootstrap` \ `element-UI` \ `Bumla` \ `ant-design` 等
+- 数据可视化：`D3.js` \ `Echarts`
+- 前端工具：了解自动化构建工具`webpack`、 包管理工具`npm`和`yarn`
+- 数据库相关：`MySQL` \ `MongoDB` \ `PostgreSQL`
+- 工具：`git` \ `docker` \ `vscode` \ `vim` 等
+- 后台：熟悉`NodeJS` (Express 和 koa), `python`
 - UI设计：Photoshop
 - 框架结构： 理解和会运用`MVC`开发模式和`MVVM`开发模式，并有一定的理解, 可以独立开发`SPA`应用
-- 操作系统：MacOS，Linux
+- 操作系统：`MacOS` \ `Linux`
 - 英语水平：CET-4 良好的英语读写能力，可以阅读英文文档
 
 ---
