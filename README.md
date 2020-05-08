@@ -78,6 +78,8 @@
 
 - #### MQTTX（跨平台 MQTT 消息客户端）
 
+- #### cloud.emqx.io（EMQ X MQTT Cloud 平台）
+
 - #### ActorCloud（EMQ大型物联网管理平台）
 
 - #### ActorCloud-小程序（Actorcloud 小程序版本）
