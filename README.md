@@ -1,4 +1,6 @@
-# 联系方式
+# 简历
+
+## 联系方式
 
 - 手机/微信号：18669086712
 - Email：894402575bt@gmail.com | 894402575@qq.com
@@ -6,51 +8,49 @@
 
 ---
 
-# 个人信息
+## 个人信息
 
 - 余仕帆/男/1995
 - 本科/大连东软信息学院/计算机科学与技术系
 - 教育经历：2014-9 -- 2018-6
-- 工作年限：2年
-- 期望职位：Web前端工程师
+- 工作年限：3年
+- 职位：Web前端工程师
 - Github：[https://github.com/ysfscream](https://github.com/ysfscream)
 - 个人网站：[https://ysfscream.xyz](https://ysfscream.xyz)
 
 ---
 
-# 项目经历
+## 工作经历
 
-### 开源相关
+毕业后，有两年以上物联网公司的从业经历。
 
-### MQTTX [https://github.com/emqx/MQTTX](https://github.com/emqx/MQTTX) (400+ Stars)
+### 杭州映云科技（EMQ）（研发工程师）（2017年10月 ~ 至今 ）
 
-一款跨平台 MQTT 5.0 桌面客户端，使用 Electron + typescript 构建。
+相关项目技术栈
 
-### about-notes [https://ysfscream.xyz/about-notes/](https://ysfscream.xyz/about-notes/) (5 Stars)
+前端： vue + webpack + axios + Eslint + Babel + element-UI + RESTful API + Electron 等
 
-个人总结或摘取的各类知识点的笔记博客，使用 travis-ci 进行自动构建部署。
+本人在工作中，主要担任公司前端负责人身份。在参与的多个项目中，主要负责模块化开发重用前端组件库, 组件库文档编写维护，前端代码规范编写，后台数据接口渲染界面，业务架构搭建，可视化数据开发，前端单页面工程化管理，日常 Code Review。还参与到一些开源项目的运营维护中，日常回复 issue，包括推广项目，文案编写等。
 
-### cssgridgenerator [https://github.com/sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator) (2.8k Stars)
+参与项目：
 
-一个可视化的 CSS Grid 布局生成器，作者是 sdras，本人参与中文版本的相关维护。
+- EMQ X dashboard（EMQ 开源版 dashboard）
 
-### My-Freecodecamp-Javascript [https://github.com/ysfscream/My-freeCodecamp-JavaScript](https://github.com/ysfscream/My-freeCodecamp-JavaScript)
+- EMQ X enterprise-dashboard（EMQ 企业版 dashboard）
 
-个人在 Freecodecamp 上的各种 side-project 和算法练习题源码。
+- MQTT X（跨平台 MQTT 消息客户端）
 
-除以上项目，本人还积极参与到各类开源项目的贡献中。
+- emqx.io （企业官网）
 
-### （大学）大连东软信息学院在线教育平台（2016-9 ~ 2017-4）
+- cloud.emqx.io（EMQ X MQTT Cloud 平台）
 
-- 本人在项目中主要利用 HTML CSS bootstrap 技术，响应式开发，完成了项目基础界面样式
-- 后台使用 ThinkPHP 框架的 MVC 架构，对数据进行增删改查功能完成网站功能建设使用
-- 数据库使用 MySQL
+- Kuiper Dashboard（物联网边缘消息流处理软件）
 
-后用 （koa + vue.js + MongoDB） JSON web token 验证的方式进行重构
+- Neuron Dashboard（物联网边缘数据网关软件）
 
----
+- ActorCloud（EMQ 大型物联网设备管理平台）
 
-# 工作经历
+- ActorCloud-小程序（Actorcloud 小程序版本）
 
 ### 云南智捷科技 （暑期实习）（ 2017年6月 ~ 2017年10月 ）
 
@@ -60,37 +60,43 @@
 
 数据接口采用 Graphql API 进行数据的查询修改
 
-- #### 昆明联通项目
+参与项目：
 
-### 杭州映云科技（EMQ）（2017年10月 ~ 至今 ）
+- 昆明联通项目
 
-相关项目技术栈
+## 开源软件经历
 
-前端： vue + webpack + axios + Eslint + Babel + element-UI + RESTful API + Electron 等
+- MQTTX [https://github.com/emqx/MQTTX](https://github.com/emqx/MQTTX) (700+ Stars)
 
-后端：python flask 等
+一款跨平台 MQTT 5.0 桌面客户端，使用 Electron + typescript 构建。
 
-本人在工作中，主要担任前端负责人身份。在参与的多个项目中，主要负责模块化开发重用前端组件库, 组件库文档编写维护，前端代码规范编写，后台数据接口渲染界面，业务架构搭建，可视化数据开发，前端单页面工程化管理，日常 Code Review。还参与到一些开源项目的运营维护中，日常回复 issue，包括推广项目，文案编写等。
+- about-notes [https://ysfscream.xyz/about-notes/](https://ysfscream.xyz/about-notes/)
 
-- #### emqx-dashboard（EMQ 开源版 dashboard）
+个人总结或摘取的各类知识点的笔记博客，使用 travis-ci 进行自动构建部署。
 
-- #### emqx-enterprise-dashboard（EMQ 企业版 dashboard）
+- cssgridgenerator [https://github.com/sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator) (2.8k Stars)
 
-- #### MQTTX（跨平台 MQTT 消息客户端）
+一个可视化的 CSS Grid 布局生成器，作者是 sdras，本人参与中文版本的相关维护。
 
-- #### cloud.emqx.io（EMQ X MQTT Cloud 平台）
+- My-Freecodecamp-Javascript [https://github.com/ysfscream/My-freeCodecamp-JavaScript](https://github.com/ysfscream/My-freeCodecamp-JavaScript)
 
-- #### ActorCloud（EMQ大型物联网管理平台）
+个人在 Freecodecamp 上的各种 side-project 和算法练习题源码。
 
-- #### ActorCloud-小程序（Actorcloud 小程序版本）
+除以上项目，本人还积极参与到各类开源项目的贡献中。
 
-- #### emqx-control-center（ECC EMQ X 的控制管理监控中心）
+## 大学经历
 
-- #### emqx.io （企业官网）
+大连东软信息学院在线教育平台（2016-9 ~ 2017-4）
+
+- 本人在项目中主要利用 HTML CSS bootstrap 技术，响应式开发，完成了项目基础界面样式
+- 后台使用 ThinkPHP 框架的 MVC 架构，对数据进行增删改查功能完成网站功能建设使用
+- 数据库使用 MySQL
+
+后用 （koa + vue.js + MongoDB） 并使用 JSON web token 验证的方式进行重构
 
 ---
 
-# 技能清单
+## 技能清单
 
 以下均为我熟悉使用的过的技能
 
@@ -102,7 +108,7 @@
 - 数据库相关：`MySQL` \ `MongoDB` \ `PostgreSQL`
 - 工具：`git` \ `vscode` \ `vim` \ `docker` 等
 - 后台：熟悉 `NodeJS` (Express 和 koa), `python`
-- 移动端：了解 `React-native` 和 `Flutter` 
+- 移动端：了解 `React-native` 和 `Flutter`
 - 框架结构： 理解和会运用`MVC`开发模式和`MVVM`开发模式，并有一定的理解, 可以独立开发`SPA`应用
 - 操作系统：`MacOS` \ `Linux`
 - 英语水平：CET-4 良好的英语读写能力，可以阅读英文文档
@@ -115,6 +121,6 @@ web、http、html、css、javascript、ajax、vue、mvc、mvvm、git
 
 ---
 
-# 致谢
+## 致谢
 
 感谢您花时间阅读我的简历，期待能有机会和您共事。
